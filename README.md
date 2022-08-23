@@ -6,3 +6,6 @@ The target on this stage will be look for insights that make sense if the Calend
 
 Commits:
 1. Just putting togheter all the datasets that looks important to my analysis. Main formating of numbers and creating Calendar Table. 17-08-2022
+2. On this stage I'd started to write some code on M lenguage on DAX Power BI. Now we have some useful measures to do a deep research and analysis. 23-08-2022
+3. 
+4. 
